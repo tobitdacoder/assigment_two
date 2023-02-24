@@ -1,0 +1,45 @@
+1. the output for this code: ''' 
+x=5
+y=3
+print(x%y)
+'''   will be: 2
+
+
+2. the purpose of a loop in programming is:  to repeat a set of statements multiple time.
+
+3. the difference between a list and a tuple is that tuples are immutable (they can no longer been externaly modified by any function after they are created) and
+   list are mutable (which means that we can delete,add or append,modify the content of it after it has been created)
+
+4. the output of this program ''' 
+x=5
+y=10
+
+if x>y:
+   print("x is greater than y")
+else:
+   print("x is less than or equal to y")
+''' is: "x is less than or equal to y"
+
+5.  the purpose of a function in programming is :To break a large program into smaller, reusable components
+
+6. in the list: function,print,if,variable, the python keywords are: print and if
+
+7. ''' 
+x=[1,2,3]
+x.append(4)
+print(x)
+'''   the output here is [1, 2, 3, 4]
+
+8. the purpose of the return statement is: To return a value from the function to the caller.
+
+9. '''
+x=2
+y=3
+z=x*y
+print(z)
+'''  the output of our program is 6.
+
+10. the purpose of a comment in python code is To explain the purpose or function of a 
+specific line or section of code.
+
+ 
